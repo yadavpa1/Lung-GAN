@@ -1,5 +1,5 @@
 # Lung-GANs
-This is the code for [Lung-GANs: Unsupervised Representation Learning for Lung Disease Classification using Chest CT and X-ray Images](https://www.researchgate.net/publication/354228470_Lung-GANs_Unsupervised_Representation_Learning_for_Lung_Disease_Classification_Using_Chest_CT_and_X-Ray_Images). Lung-GANs is a deep unsupervised framework to classify lung diseases from chest CT and X-ray images.
+This is the code for [Lung-GANs: Unsupervised Representation Learning for Lung Disease Classification using Chest CT and X-ray Images](https://ieeexplore.ieee.org/document/9524697). Lung-GANs is a deep unsupervised framework to classify lung diseases from chest CT and X-ray images.
 
 ## Dataset
 - Tuberculosis vs. Healthy: https://mmcheng.net/tb/
